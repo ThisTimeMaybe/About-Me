@@ -1,3 +1,4 @@
+![logo](https://github.com/ThisTimeMaybe/Udit/blob/main/anime%20computer%20gif%202.gif)
 <h1 align="center">Hi 👋, I'm Udit</h1>
 <h3 align="center">Recent computer science graduate with a deep interest in machine learning and artificial intelligence.</h3>
 
